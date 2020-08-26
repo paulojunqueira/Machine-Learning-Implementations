@@ -1,6 +1,8 @@
 ## Univariate Linear Regression 
 This is an inplementation of a Univariate Linear Regression Algorithm   
+it is demonstrated two examples above.  
   
+
 ![Example1](Images/Example1.png)
 ![Cost1](Images/Cost1.png)
   
