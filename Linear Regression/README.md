@@ -7,4 +7,4 @@ it is demonstrated two examples above.
 ![Cost1](Images/Cost1.png)
   
 ![Example2](Images/Example2.png)
-![Cos2](Images/Cost1.png)
+![Cos2](Images/Cost2.png)
